@@ -1,0 +1,15 @@
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.sourcelink.json
+D:\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.exe
+D:\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.deps.json
+D:\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+D:\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll
+D:\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.pdb
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.dll
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.pdb
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+D:\repos\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Classes.dll
